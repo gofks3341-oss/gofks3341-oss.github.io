@@ -1,4 +1,4 @@
-# forontead
+# forontend
 
 자바스크립트 기반 웹 서버 프로그래밍 풀스택 개발 과정
 
